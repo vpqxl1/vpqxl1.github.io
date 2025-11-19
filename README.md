@@ -2,7 +2,6 @@
 
 Gaming-themed personal page with tilt effects and smooth animations.
 
-**Live:** https://sesjaphp.github.io  
 **Domains:** 
 https://diskspoof.beer
 https://diskspoof.lol
